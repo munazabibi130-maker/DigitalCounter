@@ -1,0 +1,65 @@
+*{
+    padding:0;
+    margin:0;
+    box-sizing:border-box;
+}
+body{
+    padding:10%;
+    margin-bottom: 0%;
+    
+
+    background-color: rgb(40, 185, 95);
+    color:rgb(228, 6, 6);
+}
+.counterbody
+{
+    width: 700px;
+    height:500px;
+    padding: 30px;
+    background-color: rgb(17,18,18);
+    color: white;
+    border-radius: 15px;
+    text-align: center;
+    align-items: center;
+}
+.DigitalCounter
+{
+    padding :10%;
+    height:400px;
+    width:600px;
+    color:white;
+    border-radius: 15%;
+    background-color: aqua;
+    margin-right: 30px;
+}
+button
+{
+    color:brown;
+    padding:5%;
+    font-size: 20px;
+    border-radius:15%;
+    display:inline;
+    
+}
+#count{
+    border: 2px solid white;
+    padding: 1px 20px;
+    /* display: inline-block; */
+    border-radius: 8px;
+    color: rgb(197, 48, 48);
+
+    font-size: 50px;
+    border-color: brown;
+       margin-top: 20px;
+    margin-bottom: 120px;
+}
+button:hover{
+    background-color:yellow;
+}
+h2
+{
+    font-size: 40px;
+   
+    text-align: center;
+    color:bisque;
+}
